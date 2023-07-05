@@ -1,16 +1,20 @@
-### Hi there 👋
+# My Profile
 
-<!--
-**tahsin23/tahsin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Feel free to explore my repositories and contributions.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about coding and enjoy working on various projects. You can find more information about me on my GitHub profile.
+
+## Contact
+
+You can reach out to me through the following channels:
+
+- GitHub: [tahsin23](https://github.com/tahsin23)
+- Email: example@example.com
+
+## Sohan's Profile
+
+Check out Sohan's GitHub profile for amazing projects and contributions.
+
+- GitHub: [devsrsihab](https://github.com/devsrsihab/devsrsihab)
